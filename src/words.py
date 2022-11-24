@@ -1,0 +1,19 @@
+words = [
+    'ahmedabad',
+    'amreli',
+    'banaskantha',
+    'bharuch',
+    'bhavnagar',
+    'dang',
+    'jamnagar',
+    'junagadh',
+    'kheda',
+    'kachchh',
+    'mehsana',
+    'panchmahal',
+    'rajkot',
+    'sabarkantha',
+    'surat',
+    'surendranagar',
+    'vadodara'
+]
